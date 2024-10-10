@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saviskar Thiruchelvam</h1>
 <h3 align="center">A passionate digital craftman from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a?permalink_comment_id=3119424">	
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saviskar&label=Profile%20views&color=0e75b6&style=flat" alt="saviskar" /> </p>
 
