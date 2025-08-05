@@ -2,7 +2,7 @@
 
 ###
 
-🛜 currently working on a guest registration system<br>👨🏼‍🎓 studying software engineering at Univeristy of Staffordshire (APIIT)<br>
+🛜 currently working on a micro internship platform<br>👨🏼‍🎓 studying software engineering at Univeristy of Staffordshire (APIIT)<br>
 
 # 💻 Tech Stack:
 
